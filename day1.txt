@@ -1,7 +1,4 @@
 raihan world
 Ahsan Ullah
-<<<<<<< HEAD
 conflict
-=======
 1
->>>>>>> 1a20d881da11c0fbe2ac0f26cccb6c3aa650b0e8
